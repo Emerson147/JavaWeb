@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit name="JavaWebPU" persistenceXmlPath="src/main/resources/META-INF/persistence.xml">
+        <packages>
+          <package value="com.emersoncode.javaweb.persistencia" />
+        </packages>
+        <entities>
+          <entity value="com.emersoncode.javaweb.logica.Usuario" />
+        </entities>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>

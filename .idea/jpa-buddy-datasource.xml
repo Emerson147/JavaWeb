@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-source-infos>
+      <data-source-info id="f263de97-a4c1-4788-af48-d6b45e45deb4" persistence-unit-name="UsuarioJpaController" />
+      <data-source-info id="f263de97-a4c1-4788-af48-d6b45e45deb4" persistence-unit-name="JavaWebPU" />
+    </data-source-infos>
+  </component>
+</project>
